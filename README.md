@@ -1,2 +1,3 @@
 # mayen-blog
-aprendiendo tecnidas y elavoracion de blog con node js
+aprendiendo tecnidas y elavoracion de blog con node js y mongodb
+
